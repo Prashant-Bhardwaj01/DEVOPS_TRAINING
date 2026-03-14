@@ -1,1 +1,1 @@
-This is our first day
+This repo is created to keep track of mine Devops Training daily progress.
